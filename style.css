@@ -631,3 +631,6 @@ input:focus{
   margin-left: 70px;
   margin-top: 20px;
 }
+.flexcont1{
+  display: flex;
+}
